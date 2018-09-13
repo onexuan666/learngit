@@ -6,10 +6,8 @@ Creating a new branch is quick AND simple.
 a
 b
 c
-<<<<<<< HEAD
-
 
 3
-=======
 1
->>>>>>> 1
+2
+
