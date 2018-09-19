@@ -6,6 +6,7 @@ Creating a new branch is quick & simple.
 a
 b
 c
+d
 
 3
 1
